@@ -146,16 +146,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:1.21.3-6.0.0-beta.29@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3408901,
-            "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/fabricmods/required/journeymap-fabric-1.21.3-6.0.0-beta.29.jar",
-            "MD5": "1acf103ff1327ed391552155f980bee7"
-          }
-        },
-        {
           "id": "com.hyfata.najoan:koreanpatch:1.8.1+mc1.21.3@jar",
           "name": "Korean Patch",
           "type": "FabricMod",
@@ -186,6 +176,16 @@
           }
         },
         {
+          "id": "xaero.minimap:xaerominimap:24.6.2@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1627490,
+            "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/fabricmods/required/Xaeros_Minimap_24.6.2_Fabric_1.21.3.jar",
+            "MD5": "ed7f511e7ce4091dd2a967ba128e013a"
+          }
+        },
+        {
           "id": "iris.properties",
           "name": "iris.properties",
           "type": "File",
@@ -201,7 +201,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5645,
+            "size": 5549,
             "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/files/options.txt",
             "path": "options.txt"
           }
