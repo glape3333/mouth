@@ -197,6 +197,17 @@
           }
         },
         {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3641,
+            "url": "https://glape3333.github.io/mouth/servers/mouth-1.21.3/files/config/xaerominimap.txt",
+            "MD5": "5a89c4896e235e17836ce3c32720d1ae",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
